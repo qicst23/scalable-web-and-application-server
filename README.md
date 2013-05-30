@@ -7,6 +7,9 @@ Scalable Web and Application Server
 ## _Skills_
     
     Java, thread pool, servlet, HTTP 1.0/1.1, cookies, sessions
+
+## _Course_
+    
     Course: CIS555, Internet & Web Systems, Spring 2013
     
     
