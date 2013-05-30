@@ -12,6 +12,16 @@ Scalable Web and Application Server
     
     Course: CIS555, Internet & Web Systems, Spring 2013
     
+## _Deployment_
+    
+The source files are located in `src/edu/upenn/cis455/webserver` folder. To compile the program, do
+
+    ant build
+
+Then go to [Dispatcher.java](src/edu/upenn/cis455/webserver/Dispatcher.java)
+    
+    
+    
     
 
 
