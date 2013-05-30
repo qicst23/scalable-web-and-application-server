@@ -20,6 +20,13 @@ The source files are located in `src/edu/upenn/cis455/webserver` folder. To comp
 
 To start your server, in a terminal window run:
     
+    java -cp [jar files path rendered by ant build]
+             [HttpServer class path] [port to listen for connection to ]
+             [root directory of the static web pages]
+             [the web.xml location for URL-class mapping]
+
+For example: 
+
     java –cp target/WEB-INF/lib/hw1.jar:target/WEB-INF/lib/servlet-api.jar
             edu.upenn.cis455.webserver.HttpServer 8080
             /home/cis455/workspace/HW1
